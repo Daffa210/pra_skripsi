@@ -1,0 +1,1 @@
+http://download.garuda.kemdikbud.go.id/article.php?article=2119030&val=15965&title=Sistem%20Scheduling%20Pelaporan%20Data%20Akademik%20di%20UIN%20Sunan%20Kalijaga%20ke%20Pangkalan%20Data%20Pendidikan%20Tinggi%20PDDikti%20dengan%20Menggunakan%20Fitur%20Cron%20Job%20di%20Linux
